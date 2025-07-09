@@ -20,7 +20,6 @@ The firmware is developed with STM32CubeIDE and relies on HAL drivers for timer,
 - `Core/Src/pwm.c`: Handles PWM configuration and duty cycle updates
 - `Core/Src/tim.c`: Timer initialization for PWM generation
 - `Core/Src/main.c`: System entry point and user logic
-- `Startup/`: Assembly startup code and vector table
 
 #### 🔧 Build & Flash
 - IDE: STM32CubeIDE
